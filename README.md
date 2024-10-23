@@ -4,7 +4,7 @@
 - ⚙ I’m looking to collaborate on **models** based on **Differential Equations Systems** and **Front-end development** projects.
 - 💻 I’m learning **Front-end development**.
 
-Proficiency knowledge on the <img src="https://user-images.githubusercontent.com/80506868/213256561-64ba58c6-d29f-461e-bf28-127c6a2806d8.jpg" width="50"/>programming language 
+Proficiency knowledge in the <img src="https://user-images.githubusercontent.com/80506868/213256561-64ba58c6-d29f-461e-bf28-127c6a2806d8.jpg" width="50"/>programming language 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
