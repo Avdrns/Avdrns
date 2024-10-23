@@ -1,7 +1,7 @@
 ## **Programminghead** 🤪
 
 - 💎 I’m currently doing my Master of Science in Physics at Universidad Nacional Autónoma de México.
-- ⚙ I’m looking to collaborate on **models based on Differential Equations Systems** and **Front-end development** projects.
+- ⚙ I’m looking to collaborate on **models** based on **Differential Equations Systems** and **Front-end development** projects.
 - 💻 I’m learning **Front-end development**.
 
 Proficiency knowledge on the <img src="https://user-images.githubusercontent.com/80506868/213256561-64ba58c6-d29f-461e-bf28-127c6a2806d8.jpg" width="50"/>programming language 
