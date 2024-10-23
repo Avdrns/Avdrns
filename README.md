@@ -1,6 +1,6 @@
 ## **Programminghead** 🤪
 
-- 💎 I’m currently doing my Master of Science on Physics at Universidad Nacional Autónoma de México.
+- 💎 I’m currently doing my Master of Science in Physics at Universidad Nacional Autónoma de México.
 - ⚙ I’m looking to collaborate on **models based on Differential Equations Systems** and **Front-end development** projects.
 - 💻 I’m learning **Front-end development**.
 
